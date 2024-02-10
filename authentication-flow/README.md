@@ -1,0 +1,1 @@
+Essa aplicação é para demonstrar a melhor forma de realizar a autenticação do lado do servidor.
